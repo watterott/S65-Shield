@@ -6,3 +6,5 @@ The S65-Shield is a plug-on module with color TFT-Display (176x132), microSD soc
 * Color-Display (176x132)
 * Rotary-Encoder
 * microSD Socket (SPI)
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
